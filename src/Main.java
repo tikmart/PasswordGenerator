@@ -14,7 +14,7 @@ public class Main {
         String answer = sc.next();
 
 
-        System.out.println(passwordGen.randomGenerator(length,answer));
+        System.out.println(passwordGen.randomGenerator(length, answer));
 
         sc.close();
 

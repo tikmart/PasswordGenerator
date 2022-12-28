@@ -64,8 +64,6 @@ public class RandGenerator {
         }
 
 
-
-
         return password;
     }
 }
